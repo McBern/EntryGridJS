@@ -32,3 +32,5 @@ Easily resize any columns you want by clicking and dragging the right edge of th
 
 <b>Multi Delete Rows</b><br/>
 Select multiple rows to delete. Toggle click the cell number to select rows.<br/>
+
+<a href="https://www.entrygridjs.com/get-started"><b>To get started click here.</b></a>

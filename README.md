@@ -1,6 +1,8 @@
 "# EntryGridJS" 
 "# EntryGridJS" 
 
+A JQuery Plugin created to help web developers with their rich data entry project requirements. It's easy to use and fully customizable. Free for commercial and personal use. For more info visit <a href="https://www.entrygridjs.com" target="_blank">https://www.entrygridjs.com</a>
+
 <b>EntryGrid JS is focused on data entry. It is inspired by Microsoft NAV data entry component.</b>
 
 <b>Features:</b><br/>
